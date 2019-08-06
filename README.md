@@ -1,0 +1,1 @@
+from https://gist.githubusercontent.com/leonardinius/e9c4da8b02159a776e0a/raw/ddd3554d56a53d6a704d2c620f74329d18543d7d/nvim_gdb.vim
